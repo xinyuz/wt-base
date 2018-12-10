@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to wt-base Pages
 
 You can use the [editor on GitHub](https://github.com/xinyuz/wt-base/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 更新历史
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2018/12/10
+- 增加ChartUtils.java，提供对基于日期的数量统计，课供barChart直接使用的数据。
+
+
+### Markdown
 
 ```markdown
 Syntax highlighted code block
