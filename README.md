@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 更新历史
 
+## 1.0.2
 2018/12/10
 - 增加ChartUtils.java，提供对基于日期的数量统计，课供barChart直接使用的数据。
 
